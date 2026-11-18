@@ -1,0 +1,15 @@
+Move
+C:\reports\01.txt
+to
+C:\backups\01.txt
+
+Copy
+C:\personalFiles\art\mascotIdeas.jpg
+to
+C:\backups\mascotIdeas.jpg
+
+Move
+C:\personalFiles\art\mascotIdeas.jpg
+to
+C:\myWebsite\gallery\piece07.jpg
+
